@@ -1,5 +1,5 @@
 // ── App metadata ────────────────────────────────────────────
-const APP_VERSION  = '1.0.0';
+const APP_VERSION  = '2.0.0';
 const DEPLOYED_AT  = new Date().toLocaleString();
 
 // Set version badge
